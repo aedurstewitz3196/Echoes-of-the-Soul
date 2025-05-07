@@ -4,7 +4,7 @@
 
 <h3>Overview</h3>
 ECHOES OF THE SOUL is a heart-wrenching narrative-driven game that explores themes of loss, absence, and redemption. Follow the emotional journey of a young child who grapples with the consequences of being absent during critical moments, leading to the loss of the things and people closest to them. Through stunning visuals, immersive storytelling, and impactful choices, players will uncover a deeply moving tale that resonates long after the credits roll.
-
+<hr>
 <h3>Release Date</h3>
 July 29, 2026
 Key Features
@@ -17,7 +17,7 @@ Introspective Mechanics: Unique gameplay elements that mirror the protagonist’
 
 <h3>Story</h3>
 In ECHOES OF THE SOUL, you play as a child whose absence during pivotal moments leads to the unraveling of their world. As the things they hold dear slip away, the protagonist must confront their guilt, search for redemption, and piece together the echoes of their soul. The story asks: Can you reclaim what was lost, or will the weight of absence define you forever?
-
+<hr>
 <h3>Platforms</h3>
 PC
 
@@ -37,6 +37,7 @@ Processor: Intel Core i7-9700 or AMD Ryzen 5 5600X
 Memory: 16 GB RAM
 Graphics: NVIDIA GeForce RTX 1060 or AMD Radeon RX 580
 Storage: 20 GB available space (SSD recommended)
+<hr>
 
 <h3>Development Team</h3>
 
@@ -55,4 +56,5 @@ Stay tuned for the latest news, trailers, and behind-the-scenes content as we ap
 
 
 “In the silence of absence, the soul’s echoes scream the loudest.”
+<hr>
 
