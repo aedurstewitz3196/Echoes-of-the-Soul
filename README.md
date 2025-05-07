@@ -53,8 +53,7 @@ For press inquiries, support, or feedback:
 
 <h3>Stay Updated</h3>
 Stay tuned for the latest news, trailers, and behind-the-scenes content as we approach the release of ECHOES OF THE SOUL on July 29, 2026.
-
-
-“In the silence of absence, the soul’s echoes scream the loudest.”
+<hr>
+<h5>“In the silence of absence, the soul’s echoes scream the loudest.”</h5>
 <hr>
 
