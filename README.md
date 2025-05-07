@@ -43,13 +43,15 @@ Storage: 20 GB available space (SSD recommended)
 
 Studio: AeStudios
 Writer: Andres Durstewitz
+
 Composer: Andres Durstewitz
+
 Art Director: Andres Durstewitz
 
 <h3>Contact</h3>
 For press inquiries, support, or feedback:
 
-<h3>Email:</h3> aedurstewitz@gmail.com
+<h5>Email:</h5> aedurstewitz@gmail.com
 
 <h3>Stay Updated</h3>
 Stay tuned for the latest news, trailers, and behind-the-scenes content as we approach the release of ECHOES OF THE SOUL on July 29, 2026.
